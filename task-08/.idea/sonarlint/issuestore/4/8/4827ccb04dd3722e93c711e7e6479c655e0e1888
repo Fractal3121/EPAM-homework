@@ -1,0 +1,22 @@
+
+V
+java:S18549"ARemove this useless assignment to local variable "outputXmlFile".(ã¥¿(
+]
+java:S18542"BRemove this useless assignment to local variable "staxController".(Ÿ´ö†ÿÿÿÿÿ
+W
+java:S1854*"ARemove this useless assignment to local variable "outputXmlFile".(ß©ó”
+W
+java:S1854#"ARemove this useless assignment to local variable "saxController".(í”ÃÇ
+\
+java:S1854"ARemove this useless assignment to local variable "outputXmlFile".(Ž§¿îúÿÿÿÿ
+\
+java:S1854"ARemove this useless assignment to local variable "domController".(¦…ÌÌüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã‘Àþüÿÿÿÿ
+M
+java:S1481"2Remove this unused "domController" local variable.(¦…ÌÌüÿÿÿÿ
+M
+java:S1481"2Remove this unused "outputXmlFile" local variable.(Ž§¿îúÿÿÿÿ
+H
+java:S1481#"2Remove this unused "saxController" local variable.(í”ÃÇ
+N
+java:S14812"3Remove this unused "staxController" local variable.(Ÿ´ö†ÿÿÿÿÿ

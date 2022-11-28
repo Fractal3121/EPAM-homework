@@ -1,0 +1,27 @@
+
+›
+java:S1130<"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(Úëş
+›
+java:S1130R"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(ğ×Â½
+ 
+java:S1130h"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(É­şíşÿÿÿÿ
+ 
+java:S1130{"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(³¢Šßıÿÿÿÿ
+œ
+java:S1130’"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(ÁÈğõ
+¡
+java:S1130¨"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(ËÔšìüÿÿÿÿ
+œ
+java:S1130½"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(·­³ğ
+£
+java:S1130"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(†Ø¡8º›¾şî/
+£
+java:S1130—"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(Ä²Àï8Á›¾şî/
+£
+java:S1130§"„Remove the declaration of thrown exception 'com.epam.rd.java.basic.task7.db.DBException', as it cannot be thrown from method's body.(ŞğÙ8Ş›¾şî/
+…
+java:S1192×"gDefine a constant instead of duplicating this literal "Thrown exception musb be a DBException" 4 times.(äÚÆ»8ÉŠÉşî/
+W
+java:S3516—"9Refactor this method to not always return the same value.(Ä²Àï8Ê°ÿÒï/
+W
+java:S3516§"9Refactor this method to not always return the same value.(ŞğÙ8Ë°ÿÒï/
